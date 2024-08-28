@@ -1,0 +1,50 @@
+// prettier-ignore
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "types": [
+      "node"
+    ],
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/types"
+    ],
+    "baseUrl": "./",
+    "paths": {
+      "*": [
+        "./src/*"
+      ],
+      "assets/*": [
+        "./src/assets/*"
+      ],
+      "atoms/*": [
+        "./src/components/atoms/*"
+      ],
+      "molecules/*": [
+        "./src/components/molecules/*"
+      ],
+      "organisms/*": [
+        "./src/components/organisms/*"
+      ],
+      "screens/*": [
+        "./src/components/screens/*"
+      ],
+      "layouts/*": [
+        "./src/components/layouts/*"
+      ],
+      "types/*": [
+        "./src/types/*"
+      ],
+      "helpers/*": [
+        "./src/helpers/*"
+      ]
+    }
+  },
+  "include": [
+    "src",
+    "App.tsx",
+    ".eslintrc.js", "src/types/declarations.d.ts",
+    "node_modules/@types/jest/index.d.ts"
+  ]
+}

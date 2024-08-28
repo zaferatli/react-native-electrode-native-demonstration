@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primary Switch 1`] = `
+<View
+  collapsable={false}
+  style={
+    Object {
+      "backgroundColor": undefined,
+      "borderRadius": 14,
+      "height": 31,
+      "position": "relative",
+      "width": 51,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "borderRadius": 14,
+          "height": 27,
+          "left": 2,
+          "position": "absolute",
+          "top": 2,
+          "width": 27,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Primary Switch With Color 1`] = `
+<View
+  collapsable={false}
+  style={
+    Object {
+      "backgroundColor": "rgba(255, 0, 0, 1)",
+      "borderRadius": 14,
+      "height": 31,
+      "position": "relative",
+      "width": 51,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        Object {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "borderRadius": 14,
+          "height": 27,
+          "left": 2,
+          "position": "absolute",
+          "top": 2,
+          "width": 27,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Primary Switch With Color False State 1`] = `
+<View
+  collapsable={false}
+  style={
+    Object {
+      "backgroundColor": "rgba(255, 0, 0, 1)",
+      "borderRadius": 14,
+      "height": 31,
+      "position": "relative",
+      "width": 51,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        Object {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "borderRadius": 14,
+          "height": 27,
+          "left": 2,
+          "position": "absolute",
+          "top": 2,
+          "width": 27,
+        }
+      }
+    />
+  </View>
+</View>
+`;

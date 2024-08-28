@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "borderRadius": undefined,
+      "color": "#FFFFFF",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": undefined,
+      "fontSize": 16,
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "height": undefined,
+      "justifyContent": "center",
+      "lineHeight": undefined,
+      "opacity": 1,
+    }
+  }
+>
+  <browser.svg
+    fill="#FFFFFF"
+    iconType="BrowserIcon"
+  />
+</View>
+`;
+
+exports[`Icon Button Colored 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "borderRadius": undefined,
+      "color": "#FFFFFF",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": undefined,
+      "fontSize": 16,
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "height": undefined,
+      "justifyContent": "center",
+      "lineHeight": undefined,
+      "opacity": 1,
+    }
+  }
+>
+  <browser.svg
+    fill="red"
+    iconType="BrowserIcon"
+  />
+</View>
+`;
+
+exports[`Link Button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#333333FF",
+      "borderRadius": 9,
+      "color": "#FFFFFF",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": undefined,
+      "fontSize": 16,
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "height": 48,
+      "justifyContent": "center",
+      "lineHeight": undefined,
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontStyle": "normal",
+          "fontWeight": "600",
+          "lineHeight": undefined,
+        },
+      ]
+    }
+  >
+    Privacy Policy
+  </Text>
+</View>
+`;
+
+exports[`Primary Button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#333333FF",
+      "borderRadius": 9,
+      "color": "#FFFFFF",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexWrap": undefined,
+      "fontSize": 16,
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "height": 48,
+      "justifyContent": "center",
+      "lineHeight": undefined,
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontStyle": "normal",
+          "fontWeight": "600",
+          "lineHeight": undefined,
+        },
+      ]
+    }
+  >
+    7 Day Trial and Plan
+  </Text>
+</View>
+`;

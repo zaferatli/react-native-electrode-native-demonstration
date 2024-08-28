@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primary ActionContainer 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexWrap": undefined,
+        "justifyContent": "center",
+        "marginTop": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#333333FF",
+        "borderRadius": 9,
+        "color": "#FFFFFF",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexWrap": undefined,
+        "fontSize": 16,
+        "fontStyle": "normal",
+        "fontWeight": "600",
+        "height": 48,
+        "justifyContent": "center",
+        "lineHeight": undefined,
+        "opacity": 1,
+        "width": 361,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontSize": 16,
+            "fontStyle": "normal",
+            "fontWeight": "600",
+            "lineHeight": undefined,
+          },
+        ]
+      }
+    >
+      7 Day Trial and Plan
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexWrap": undefined,
+          "justifyContent": "flex-start",
+          "marginHorizontal": 5,
+          "marginVertical": 15,
+        },
+        undefined,
+      ]
+    }
+  >
+    <shield.svg
+      height={16}
+      iconType="ShieldIcon"
+      width={16}
+    />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#FF0000",
+            "fontSize": 14,
+            "fontStyle": "normal",
+            "fontWeight": "600",
+            "lineHeight": undefined,
+            "marginLeft": 10,
+          },
+          Object {
+            "color": "#717578FF",
+          },
+          undefined,
+        ]
+      }
+    >
+      NO PAYMENT NOW
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox True 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FF0000",
+      "borderColor": "#FF0000",
+      "borderRadius": 24,
+      "borderWidth": 1,
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": undefined,
+      "height": 24,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 24,
+    }
+  }
+>
+  <check.svg
+    fill="#FFFFFF"
+    height={9}
+    iconType="CheckIcon"
+    width={12}
+  />
+</View>
+`;
+
+exports[`Checkbox With Style 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderColor": "#E7E8E9FF",
+      "borderRadius": 24,
+      "borderWidth": 1,
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": undefined,
+      "height": 24,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 24,
+    }
+  }
+/>
+`;
+
+exports[`Primary Checkbox 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#E7E8E9FF",
+      "borderRadius": 24,
+      "borderWidth": 1,
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": undefined,
+      "height": 24,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 24,
+    }
+  }
+/>
+`;
